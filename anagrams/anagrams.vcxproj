@@ -24,6 +24,7 @@
     <ProjectGuid>{671865d3-5d49-4146-bfd5-cfef5297332d}</ProjectGuid>
     <RootNamespace>anagrams</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Making a to-do list</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
