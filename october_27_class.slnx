@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="anagrams/anagrams.vcxproj" Id="671865d3-5d49-4146-bfd5-cfef5297332d" />
+  <Project Path="Making a to-do list/Making a to-do list.vcxproj" Id="1105d538-8a01-4aad-8795-b188af3b4264" />
   <Project Path="october_27_class/october_27_class.vcxproj" Id="6a18c84f-6ac2-465c-afc7-b332b8981067" />
 </Solution>
